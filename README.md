@@ -7,4 +7,6 @@ Task - 1
 
 
 2) Develop a landing page of any website you like make it as functional as you can.
-   "C:\Users\DELL\OneDrive\Documents\PicPick\2025-02-16 14 35 29.mp4"
+
+   
+"C:\Users\DELL\OneDrive\Documents\PicPick\2025-02-16 14 35 29.mp4"
