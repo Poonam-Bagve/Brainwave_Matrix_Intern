@@ -6,5 +6,6 @@ Task - 1
 ![Screenshot (128)](https://github.com/user-attachments/assets/52ae77c5-f394-44ea-8584-fa6d77e37c8b)
 
 
+2) Develop a landing page of any website you like make it as functional as you can.
 
    
